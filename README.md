@@ -1,16 +1,11 @@
 # Ensheng.github.io
 
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+# h1 Timo To-do list
+- [x] Do my TMA
+- [ ] Buy milk after class
+- [ ] Pay yc back for food
 
-Alternatively, for H1 and H2, an underline-ish style:
-
-Alt-H1
-======
-
-Alt-H2
-------
+## List of stuff
+1. Buy food after class
+2. Buy new phone
+3. Read up on ICT239
